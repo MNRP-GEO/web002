@@ -1,0 +1,29 @@
+#NP{
+    background-color: rgb(238, 133, 34);
+    color: rgb(2, 1, 1);
+    padding: 10px;
+    text-align: center;
+    width: 50;
+    height: 14px;
+}
+#NP01{
+    background-color: rgb(60, 184, 11);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 50;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+ #map {
+    width: 100%;
+    height: 650px;
+ }
+ 
+ .coordinate {
+    color: rgb(138, 2, 2);
+    position: absolute;
+    bottom: 0.5px;
+    right: 0%;
+ }
